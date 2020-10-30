@@ -1,0 +1,16 @@
+PODS:
+  - LPNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LPNetworking (from `Libs/LPNetworking`)
+
+EXTERNAL SOURCES:
+  LPNetworking:
+    :path: Libs/LPNetworking
+
+SPEC CHECKSUMS:
+  LPNetworking: de2fcb71e5f3109c98323ec39360c52bad6919c8
+
+PODFILE CHECKSUM: fa4cc50863d3914af2320eca193dc1ff722641f1
+
+COCOAPODS: 1.9.3

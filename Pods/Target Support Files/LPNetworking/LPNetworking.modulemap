@@ -1,0 +1,6 @@
+framework module LPNetworking {
+  umbrella header "LPNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

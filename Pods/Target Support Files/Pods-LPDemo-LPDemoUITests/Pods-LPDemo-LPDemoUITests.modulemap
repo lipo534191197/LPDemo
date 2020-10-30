@@ -1,0 +1,6 @@
+framework module Pods_LPDemo_LPDemoUITests {
+  umbrella header "Pods-LPDemo-LPDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
